@@ -212,7 +212,7 @@ function play(guild, song) {
                         if (!message.content.startsWith(prefix)) return;
                         var args = message.content.split(' ').slice(1);
                         var argresult = args.join(' ');
-                        if (message.author.id == 292703054627602442) return;
+                        if (message.author.id == 396958215377780747) return;
                        
                 
                        
